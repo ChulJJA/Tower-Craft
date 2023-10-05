@@ -1,6 +1,6 @@
 ﻿/**
 \file        Enemy_Move_Component.h
-\author      Minseok Sung
+\author      Chul Seung Lee
 \brief
 This file is the header file of the Enemy_Move_Component.cpp
 

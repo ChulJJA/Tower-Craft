@@ -1,6 +1,6 @@
 ﻿/**
 \file        Enemy_Generator.h
-\author      Minseok Sung
+\author      Chul Seung Lee
 \brief
 This file is the header file Enemy_Generator.h
 

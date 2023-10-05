@@ -1,6 +1,6 @@
 ﻿/**
 \file        Enemy.h
-\author      Minseok Sung
+\author      Chul Seung Lee
 \brief
 This file is the header file Enemy object.
 

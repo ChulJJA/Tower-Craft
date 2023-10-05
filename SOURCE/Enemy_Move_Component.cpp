@@ -1,6 +1,6 @@
 ﻿/**
 \file        Enemy_Move_Component.cpp
-\author      Minseok Sung
+\author      Chul Seung Lee
 \brief
 This file contain the enemy movement equation.
 
